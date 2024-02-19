@@ -1,6 +1,10 @@
-This is the code for a project for the course Software Development II at CSE UOI.
+This is the source code for a project for the course Software Development II at CSE UOI.
 
-Concerns a sales-commission application with refactored code.
+The goal of the project was to refactor a given source code of an application.
+
+#Usage:
+
+The project can be imported and used as an eclipse project. 
 
 ## Authors:
 
