@@ -2,6 +2,8 @@ This is the code for a project for the course Software Development II.
 
 Concerns a sales-commission application with refactored code.
 
-##Authors:
+## Authors:
+
 Athanasios Katsilieris
+
 Anastasia Arvanitidou
