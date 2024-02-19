@@ -1,0 +1,231 @@
+Name: Apostolos Zarras
+AFM: 130456093
+
+Receipts:
+
+Receipt ID: 1
+Date: 25/2/2014
+Kind: Coats
+Sales: 2000
+Items: 10
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi 
+Number: 10
+
+Receipt ID: 2
+Date: 25/2/2014
+Kind: Coats
+Sales: 4000
+Items: 10
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi 
+Number: 10
+
+
+
+
+
+
+
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
+
+ReceiptID: 150
+Date: 25/2/2014
+Kind: Skirts
+Sales: 100.0
+Items: 65
+Company: Hand Made Clothes
+Country: Greece
+City: Ioannina
+Street: Kaloudi
+Number: 10
