@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Salesman>
+    <Name>Apostolos Zarras</Name>
+    <AFM>130456093</AFM>
+    <Sales>17000.0</Sales>
+    <Trousers>10.0</Trousers>
+    <Skirts>20.0</Skirts>
+    <Shirts>10.0</Shirts>
+    <Coats>20.0</Coats>
+    <Commission>2050.0</Commission>
+</Salesman>
